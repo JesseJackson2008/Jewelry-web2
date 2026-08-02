@@ -1,0 +1,28 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 4016975, 2021-02-18T18:27:16-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Rexton-Light by Rook Supply
+ * URL: https://www.myfonts.com/fonts/rook-supply/rexton/light/
+ * Copyright: Copyright 2018 Greg Nicholls / Rook Fonts.  All Rights Reserved.
+ * 
+ * 
+ * 
+ * © 2021 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/3d4b4f");
+  
+@font-face {
+  font-family: "Rexton-Light";
+  src: url('webFonts/RextonLight/font.woff2') format('woff2'), url('webFonts/RextonLight/font.woff') format('woff');
+}
+
